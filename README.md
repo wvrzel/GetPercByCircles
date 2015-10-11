@@ -1,5 +1,7 @@
 ![example-picture](https://cloud.githubusercontent.com/assets/6401511/10418565/b0f74138-705e-11e5-80f0-0ebe089eb254.png)
 
+Live Demo at http://wvrzel.github.io/GetPercByCircles/
+
 GetPercByCircles is a small javascript-css libary which offers a friendly circle / pie-chart shaped userinterface for setting percentage values.
 
 There are three supported colors: blue, green and red.
